@@ -1,0 +1,2 @@
+Sitemap: https://www.cozum.cloud/sitemap.xml
+User-agent: *
