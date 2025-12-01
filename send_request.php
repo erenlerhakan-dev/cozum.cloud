@@ -50,7 +50,7 @@ $mail->SMTPOptions = array(
                     )
                     );
 $mail->SMTPSecure  = "SSL";
-$mail->Host        = "smtppro.zoho.ey";
+$mail->Host        = "smtppro.zoho.eu";
 $mail->Port        = 465;
 $mail->Username    = "info@cozumcloud.com.tr";
 $mail->Password    = "xn9BnUk4R634";
