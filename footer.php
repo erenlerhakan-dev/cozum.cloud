@@ -73,7 +73,7 @@
 
 <div class="contact-item display-flex">
 <i class="fa fa-envelope" style="margin-right: 10px;"></i>
-<span class="info"><a href="mailto:info@cozum.cloud">info@cozum.cloud</a></span>
+<span class="info"><a href="mailto:info@cozumcloud.com.tr">info@cozumcloud.com.tr</a></span>
 </div>
 
 </div>

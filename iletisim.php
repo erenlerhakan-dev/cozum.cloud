@@ -70,7 +70,7 @@
 
 <div class="contact-item display-flex">
 <i class="fa fa-phone" style="font-size: 30px;padding: 12px 25px 12px 25px;"></i>
-<a href="mailto:info@cozum.cloud" class="info">info@cozum.cloud</a>
+<a href="mailto:info@cozumcloud.com.tr" class="info">info@cozumcloud.com.tr</a>
 </div>
 
 </div>
