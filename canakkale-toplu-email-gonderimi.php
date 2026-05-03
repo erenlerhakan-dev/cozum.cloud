@@ -110,18 +110,20 @@ Daha fazla kişiye ulaşmak, daha fazla geri dönüş almak ve e-posta gücünü
 
 <h3 class="heading-title">Server Yedekleme, Güncelleme, Bakım ve Güvenlik: Dijital Altyapınızın Temel Taşları</h3>
 
-<div class="h5 heading-text">
-<b>Çanakkale Toplu Email Gönderimi Hizmeti</b>
+<div class="h5 heading-text"><b>Çanakkale Toplu Email Gönderimi Hizmeti</b></div>
 
-<p>
 Dijital dünyada müşterilerinizle doğrudan iletişim kurmanın en güçlü yollarından biri e-posta pazarlamasıdır. Ancak toplu email gönderimi, sadece bir listeye mail atmakla sınırlı değildir. Asıl başarı; gönderdiğiniz e-postaların spam klasörüne düşmeden, doğru zamanda, doğru kişilere ulaşması ve gerçek etkileşim yaratmasıdır.
 <br><br>
+
 Çanakkale toplu email gönderimi hizmetimiz, işletmenizin ihtiyaçlarına özel olarak tasarlanmış profesyonel bir altyapı sunar. Amacımız sadece e-posta göndermek değil; gönderdiğiniz her kampanyanın ölçülebilir sonuçlar üretmesini sağlamaktır.
 <br><br>
+
 <b>Neden Profesyonel Toplu Email Gönderimi?</b>
 <br><br>
+
 Birçok işletme, toplu email gönderimini basit araçlarla veya standart hosting altyapıları üzerinden yapmaya çalışır. Ancak bu yöntemler kısa vadede kolay gibi görünse de uzun vadede ciddi sorunlara yol açar:
 <br><br>
+
 <ul>
 <li>Maillerin spam klasörüne düşmesi</li>
 <li>IP adreslerinin kara listeye girmesi</li>
@@ -129,26 +131,35 @@ Birçok işletme, toplu email gönderimini basit araçlarla veya standart hostin
 <li>Marka güvenilirliğinin zedelenmesi</li>
 </ul>
 <br><br>
+
 Profesyonel bir sistem ile bu riskler ortadan kaldırılır ve e-posta pazarlaması gerçek potansiyeline ulaşır.
 <br><br>
+
 <b>Güçlü ve Optimize Edilmiş Altyapı</b>
 <br><br>
+
 Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize edilmiş sunucular kullanıyoruz. Her müşteriye özel yapılandırılan sistem sayesinde:<br>
 <br><br>
+
 <ul>
 <li>Gönderim hızı ve stabilitesi korunur</li>
 <li>Sunucu kaynakları verimli kullanılır</li>
 <li>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
 </ul>
 <br><br>
+
 Ayrıca SPF, DKIM ve DMARC gibi kritik doğrulama protokolleri eksiksiz şekilde yapılandırılarak, e-postalarınızın güvenilirliği artırılır ve spam filtrelerine takılma riski minimuma indirilir.
 <br><br>
+
 <b>Yüksek Teslim Edilebilirlik (Inbox Delivery)</b>
 <br><br>
+
 Toplu email gönderiminde en önemli kriterlerden biri inbox oranıdır. Yani gönderdiğiniz maillerin gerçekten gelen kutusuna düşmesi.
 <br><br>
+
 Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem taşır. Biz:<br>
 <br><br>
+
 <ul>
 <li>IP ısındırma (IP warming) süreçlerini yönetir</li>
 <li>Gönderim frekansını optimize eder</li>
@@ -156,32 +167,42 @@ Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem t
 <li>Spam tetikleyici unsurları minimize ederiz</li>
 </ul>
 <br><br>
+
 Böylece gönderimleriniz sadece ulaşmaz, görülür ve etkileşim alır.
 <br><br>
+
 <b>Hedefleme ve Segmentasyon</b>
 <br><br>
+
 Başarılı bir email kampanyasının sırrı doğru mesajı doğru kişiye iletmektir. Bu nedenle toplu gönderimlerde segmentasyon büyük rol oynar.
 <br><br>
+
 Hizmetimiz kapsamında:
 <br><br>
+
 <ul>
 <li>Müşteri listelerinizi analiz eder</li>
 <li>Hedef kitlelere göre segmentler oluşturur</li>
 <li>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
 </ul>
 <br><br>
+
 Bu sayede her kullanıcıya aynı maili göndermek yerine, daha ilgili ve etkili içerikler sunabilirsiniz.
-<br>
+<br><br>
+
 <b>Detaylı Raporlama ve Analiz</b>
 <br><br>
+
 Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik öneme sahiptir. Bu nedenle sunduğumuz sistemlerde:
 <br><br>
+
 <ul>
 <li>Açılma oranları (Open Rate)</li>
 <li>Tıklanma oranları (CTR)</li>
 <li>Bounce ve spam raporları</li>
 <li>Kullanıcı etkileşim verileri</li>
 </ul>
+
 <br><br>
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
 <br>
