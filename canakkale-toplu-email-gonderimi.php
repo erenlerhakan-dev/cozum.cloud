@@ -106,7 +106,8 @@ Daha fazla kişiye ulaşmak, daha fazla geri dönüş almak ve e-posta gücünü
 
 <h3 class="heading-title">Server Yedekleme, Güncelleme, Bakım ve Güvenlik: Dijital Altyapınızın Temel Taşları</h3>
 
-<div class="h5 heading-text"><b>Çanakkale Toplu Email Gönderimi Hizmeti</b></div>
+<div class="h5 heading-text">
+<b>Çanakkale Toplu Email Gönderimi Hizmeti</b>
 
 Dijital dünyada müşterilerinizle doğrudan iletişim kurmanın en güçlü yollarından biri e-posta pazarlamasıdır. Ancak toplu email gönderimi, sadece bir listeye mail atmakla sınırlı değildir. Asıl başarı; gönderdiğiniz e-postaların spam klasörüne düşmeden, doğru zamanda, doğru kişilere ulaşması ve gerçek etkileşim yaratmasıdır.
 <br><br>
@@ -250,7 +251,6 @@ Biz, sadece teknik bir hizmet sunmuyoruz. Aynı zamanda işletmenizin e-posta pa
 <br>
 Daha fazla kişiye ulaşmak, daha yüksek geri dönüş almak ve e-posta pazarlamasını profesyonel bir seviyeye taşımak için bizimle iletişime geçin.
 </p>
-</div>
 
 </div>
 </div>
