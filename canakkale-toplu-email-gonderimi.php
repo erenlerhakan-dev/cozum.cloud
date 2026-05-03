@@ -178,7 +178,7 @@ Başarılı bir email kampanyasının sırrı doğru mesajı doğru kişiye ilet
 <br><br>
 
 Hizmetimiz kapsamında:
-<br><br>
+<br>
 
 <ul>
 <li>Müşteri listelerinizi analiz eder</li>
