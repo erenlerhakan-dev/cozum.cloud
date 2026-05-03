@@ -34,7 +34,7 @@
 <div class="down-icon"> <a data-attr-scroll="scrlhe" class="scrollto"> <div style="cursor:pointer;" class="icon-scroll"></div></a> </div>
 </div>
 <div class="col-lg-5 col-lg-offset-1 col-md-5 col-sm-12 col-xs-12 adwords-img">
-<img src="https://cozum.cloud/images/canakkale-server-yonetimi-left.png" alt="Çanakkale Toplu Email Gönderimi">
+<img src="https://cozum.cloud/images/canakkale-toplu-email-gonderimi-left.png" alt="Çanakkale Toplu Email Gönderimi">
 </div>
 </div>
 </div>
