@@ -124,10 +124,10 @@ Birçok işletme, toplu email gönderimini basit araçlarla veya standart hostin
 </p>
 
 <ul style="font-style: italic;">
-<li>Maillerin spam klasörüne düşmesi</li>
-<li>IP adreslerinin kara listeye girmesi</li>
-<li>Düşük açılma ve tıklanma oranları</li>
-<li>Marka güvenilirliğinin zedelenmesi</li>
+<li style='font-size: 16px;'>Maillerin spam klasörüne düşmesi</li>
+<li style='font-size: 16px;'>IP adreslerinin kara listeye girmesi</li>
+<li style='font-size: 16px;'>Düşük açılma ve tıklanma oranları</li>
+<li style='font-size: 16px;'>Marka güvenilirliğinin zedelenmesi</li>
 </ul>
 <br>
 
@@ -143,9 +143,9 @@ Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize
 </p>
 
 <ul style="font-style: italic;">
-<li>Gönderim hızı ve stabilitesi korunur</li>
-<li>Sunucu kaynakları verimli kullanılır</li>
-<li>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
+<li style='font-size: 16px;'>Gönderim hızı ve stabilitesi korunur</li>
+<li style='font-size: 16px;'>Sunucu kaynakları verimli kullanılır</li>
+<li style='font-size: 16px;'>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
 </ul>
 <br>
 
@@ -164,10 +164,10 @@ Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem t
 </p>
 
 <ul style="font-style: italic;">
-<li>IP ısındırma (IP warming) süreçlerini yönetir</li>
-<li>Gönderim frekansını optimize eder</li>
-<li>Liste kalitesini analiz eder</li>
-<li>Spam tetikleyici unsurları minimize ederiz</li>
+<li style='font-size: 16px;'>IP ısındırma (IP warming) süreçlerini yönetir</li>
+<li style='font-size: 16px;'>Gönderim frekansını optimize eder</li>
+<li style='font-size: 16px;'>Liste kalitesini analiz eder</li>
+<li style='font-size: 16px;'>Spam tetikleyici unsurları minimize ederiz</li>
 </ul>
 <br>
 
@@ -186,9 +186,9 @@ Hizmetimiz kapsamında:
 </p>
 
 <ul style="font-style: italic;">
-<li>Müşteri listelerinizi analiz eder</li>
-<li>Hedef kitlelere göre segmentler oluşturur</li>
-<li>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
+<li style='font-size: 16px;'>Müşteri listelerinizi analiz eder</li>
+<li style='font-size: 16px;'>Hedef kitlelere göre segmentler oluşturur</li>
+<li style='font-size: 16px;'>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
 </ul>
 <br>
 
@@ -204,10 +204,10 @@ Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik
 </p>
 
 <ul style="font-style: italic;">
-<li>Açılma oranları (Open Rate)</li>
-<li>Tıklanma oranları (CTR)</li>
-<li>Bounce ve spam raporları</li>
-<li>Kullanıcı etkileşim verileri</li>
+<li style='font-size: 16px;'>Açılma oranları (Open Rate)</li>
+<li style='font-size: 16px;'>Tıklanma oranları (CTR)</li>
+<li style='font-size: 16px;'>Bounce ve spam raporları</li>
+<li style='font-size: 16px;'>Kullanıcı etkileşim verileri</li>
 </ul>
 <br>
 
@@ -227,9 +227,9 @@ Bu nedenle:
 </p>
 
 <ul style="font-style: italic;">
-<li>İzinli veri kullanımı konusunda danışmanlık sağlıyoruz</li>
-<li>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
-<li>Güvenli veri işleme standartlarını uyguluyoruz</li>
+<li style='font-size: 16px;'>İzinli veri kullanımı konusunda danışmanlık sağlıyoruz</li>
+<li style='font-size: 16px;'>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
+<li style='font-size: 16px;'>Güvenli veri işleme standartlarını uyguluyoruz</li>
 </ul>
 <br>
 
@@ -245,11 +245,11 @@ Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi 
 </p>
 
 <ul style="font-style: italic;">
-<li>E-ticaret siteleri</li>
-<li>Kurumsal firmalar</li>
-<li>Ajanslar</li>
-<li>Eğitim kurumları</li>
-<li>Hizmet sektörü işletmeleri</li>
+<li style='font-size: 16px;'>E-ticaret siteleri</li>
+<li style='font-size: 16px;'>Kurumsal firmalar</li>
+<li style='font-size: 16px;'>Ajanslar</li>
+<li style='font-size: 16px;'>Eğitim kurumları</li>
+<li style='font-size: 16px;'>Hizmet sektörü işletmeleri</li>
 </ul>
 <br>
 
@@ -313,11 +313,11 @@ VPS, yani Sanal Özel Sunucu, fiziksel bir sunucunun sanallaştırma teknolojile
 <br>
 <b>Kimler VPS Kullanmalı?</b><br>
 <ul>
-<li>Orta ve büyük ölçekli işletmeler</li>
-<li>Yüksek trafik alan web siteleri ve e-ticaret platformları</li>
-<li>Geliştiriciler ve yazılım firmaları</li>
-<li>Özel yazılım ve uygulamalar için sunucu ihtiyacı olanlar</li>
-<li>Daha fazla kontrol ve özelleştirme isteyen kullanıcılar</li>
+<li style='font-size: 16px;'>Orta ve büyük ölçekli işletmeler</li>
+<li style='font-size: 16px;'>Yüksek trafik alan web siteleri ve e-ticaret platformları</li>
+<li style='font-size: 16px;'>Geliştiriciler ve yazılım firmaları</li>
+<li style='font-size: 16px;'>Özel yazılım ve uygulamalar için sunucu ihtiyacı olanlar</li>
+<li style='font-size: 16px;'>Daha fazla kontrol ve özelleştirme isteyen kullanıcılar</li>
 </ul>
 </div>
 </div>
@@ -333,12 +333,12 @@ Dedicated server, fiziksel olarak sadece tek bir müşteriye tahsis edilen, tüm
 <br>
 <b>Kimler VPS Kullanmalı?</b><br>
 <ul>
-<li>Yüksek trafikli web siteleri ve portal sahipleri</li>
-<li>Büyük e-ticaret siteleri</li>
-<li>Kurumsal veri tabanları ve ERP uygulamaları</li>
-<li>Yüksek işlem gücü gerektiren uygulamalar ve oyun sunucuları</li>
-<li>Büyük ölçekli dosya ve medya paylaşım platformları</li>
-<li>Güvenlik ve performansta maksimum seviyeyi hedefleyen işletmeler</li>
+<li style='font-size: 16px;'>Yüksek trafikli web siteleri ve portal sahipleri</li>
+<li style='font-size: 16px;'>Büyük e-ticaret siteleri</li>
+<li style='font-size: 16px;'>Kurumsal veri tabanları ve ERP uygulamaları</li>
+<li style='font-size: 16px;'>Yüksek işlem gücü gerektiren uygulamalar ve oyun sunucuları</li>
+<li style='font-size: 16px;'>Büyük ölçekli dosya ve medya paylaşım platformları</li>
+<li style='font-size: 16px;'>Güvenlik ve performansta maksimum seviyeyi hedefleyen işletmeler</li>
 </ul>
 </div>
 </div>
