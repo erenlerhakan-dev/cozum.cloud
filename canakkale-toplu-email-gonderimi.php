@@ -217,11 +217,14 @@ Bu sayede her kullanıcıya aynı maili göndermek yerine, daha ilgili ve etkili
 <br><br>
 Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik öneme sahiptir. Bu nedenle sunduğumuz sistemlerde:
 <br>
-Açılma oranları (Open Rate)
-Tıklanma oranları (CTR)
-Bounce ve spam raporları
-Kullanıcı etkileşim verileri</li>
+
+<ul>
+<li>Açılma oranları (Open Rate)</li>
+<li>Tıklanma oranları (CTR)</li>
+<li>Bounce ve spam raporları</li>
+<li>Kullanıcı etkileşim verileri</li>
 </ul>
+
 <br>
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
 <br>
@@ -233,10 +236,13 @@ E-posta pazarlamasında yasal süreçler en az teknik konular kadar önemlidir. 
 <br>
 Bu nedenle:
 <br>
-İzinli veri kullanımı konusunda danışmanlık sağlıyoruz
-Liste yönetimi ve abonelik süreçlerini optimize ediyoruz
-Güvenli veri işleme standartlarını uyguluyoruz</li>
+
+<ul>
+<li>İzinli veri kullanımı konusunda danışmanlık sağlıyoruz</li>
+<li>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
+<li>Güvenli veri işleme standartlarını uyguluyoruz</li>
 </ul>
+
 <br>
 Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi korursunuz.
 <br>
