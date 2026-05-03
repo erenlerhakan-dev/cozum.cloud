@@ -29,7 +29,7 @@
 <div class="col-lg-6 col-md-7 col-sm-12 col-xs-12">
 <div class="crumina-module crumina-heading custom-color c-white">
 <h2 class="h1 heading-title">Toplu Email Gönderimi</h2>
-<div class="heading-text">Çanakkale Toplu Email Gönderimi ve Hosting Yönetimi hizmetlerimiz ile işletmenizin dijital altyapısını güvence altına alıyoruz. Profesyonel ekibimiz, sunucularınızın kesintisiz, hızlı ve güvenli çalışmasını sağlayarak, performans sorunlarını minimuma indirir.</div>
+<div class="heading-text">Çanakkale Toplu Email Gönderimi hizmetlerimiz ile işletmenizin dijital altyapısını güvence altına alıyoruz. Spam'e düşen maillerle zaman kaybetmeyin, doğrudan müşterinize ulaşın.</div>
 </div>
 <div class="down-icon"> <a data-attr-scroll="scrlhe" class="scrollto"> <div style="cursor:pointer;" class="icon-scroll"></div></a> </div>
 </div>
@@ -62,14 +62,12 @@ Hedefli gönderim: Segmentasyon ile doğru kitleye doğru içerik
 Detaylı raporlama: Açılma, tıklanma ve dönüşüm verilerini şeffaf şekilde sunarız
 Güvenli ve yasal uyumlu: KVKK ve izinli pazarlama süreçlerine uygun yapı
 Teknik destek: Kurulumdan optimizasyona kadar her aşamada yanınızdayız
-<br><br>
-Amacımız sadece mail göndermek değil;<br>
-gönderdiğiniz her e-postanın işinize değer katmasını sağlamak.</p>
+</p>
 
 <article class="hentry post post-standard has-post-thumbnail quote">
 <div class="post-thumb bg-grey">
 <div class="testimonial-content">
-<p class="text">Server yönetimi ve düzenli yedekleme, veri güvenliğinizin ve sistem sürekliliğinizin temel taşlarıdır; olası veri kayıplarını önler ve kesintisiz hizmet sağlar.</p>
+<p class="text">Amacımız sadece mail göndermek değil; gönderdiğiniz her e-postanın işinize değer katmasını sağlamak.</p>
 <div class="quote">
 <img src="https://cozum.cloud/images/quote.png" alt="Çanakkale Toplu Email Gönderimi">
 </div>
