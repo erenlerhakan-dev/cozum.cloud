@@ -251,6 +251,7 @@ Biz, sadece teknik bir hizmet sunmuyoruz. Aynı zamanda işletmenizin e-posta pa
 <br>
 Daha fazla kişiye ulaşmak, daha yüksek geri dönüş almak ve e-posta pazarlamasını profesyonel bir seviyeye taşımak için bizimle iletişime geçin.
 </p>
+</div>
 
 </div>
 </div>
