@@ -90,7 +90,7 @@ işletmenize özel yapılandırılmış sunucular, güvenli gönderim protokolle
 yüksek teslim oranı ve maksimum performans elde edersiniz.
 <br><br>
 İster kampanya gönderimleri, ister bilgilendirme mailleri, ister otomatik e-posta senaryoları olsun;
-tüm süreçleri sizin yerinize yönetiyor, size sadece sonuçları takip etmek kalıyor.
+tüm süreçleri sizin yerinize yönetiyoruz, size sadece sonuçları takip etmek kalıyor.
 <br><br>
 Daha fazla kişiye ulaşmak, daha fazla geri dönüş almak ve e-posta gücünü doğru kullanmak için doğru yerdesiniz.
 </div>
@@ -111,40 +111,6 @@ Daha fazla kişiye ulaşmak, daha fazla geri dönüş almak ve e-posta gücünü
 <h3 class="heading-title">Server Yedekleme, Güncelleme, Bakım ve Güvenlik: Dijital Altyapınızın Temel Taşları</h3>
 
 <div class="h5 heading-text">
-<p>Günümüzde işletmelerin dijital varlıkları, kesintisiz erişim ve veri güvenliği açısından kritik önem taşımaktadır. Bu nedenle, sunucuların (server) etkin yönetimi; yedekleme, güncelleme, bakım ve güvenlik süreçlerinin doğru uygulanmasıyla mümkün olur. İşte bu alanlarda yapılması gerekenler ve neden önem taşıdıkları:
-<br>
-<b>1. Server Yedekleme: Veri Güvenliğinin Teminatı</b><br>
-Sunucu üzerinde bulunan verilerin düzenli olarak yedeklenmesi, olası veri kayıplarına karşı en önemli koruma yöntemidir. Yedekleme işlemi, donanım arızası, insan hatası, kötü amaçlı yazılımlar (virüs, ransomware) veya doğal afet gibi risklere karşı işletmenizin hayati verilerini güvence altına alır.
-Yedeklemeler; tam yedekleme, artımlı (incremental) veya diferansiyel yedekleme olarak farklı yöntemlerle yapılabilir ve yedeklerin güvenli bir yerde saklanması hayati önem taşır.
-<br>
-<b>2. Güncelleme: Sistem Performans ve Güvenlik İçin Şart</b><br>
-Server işletim sistemi ve üzerinde çalışan uygulamaların düzenli olarak güncellenmesi, performansın artmasını sağlar ve güvenlik açıklarının kapatılmasına yardımcı olur. Yazılım güncellemeleri, yeni özelliklerin eklenmesi yanı sıra, bilinen zafiyetlerin giderilmesi için kritik önem taşır.
-Güncellemelerin zamanında yapılmaması, hackerların sistemdeki açıkları kullanarak saldırılar düzenlemesine yol açabilir. Bu nedenle, güncelleme süreçleri otomatik veya manuel olarak periyodik şekilde kontrol edilmelidir.
-<br>
-<b>3. Bakım: Sürekli Stabilite ve Optimizasyon</b><br>
-Sunucu bakım çalışmaları, donanım ve yazılım bileşenlerinin sağlıklı çalışmasını sağlamak için gereklidir. Disk alanı kontrolleri, CPU ve RAM kullanımının izlenmesi, gereksiz dosyaların temizlenmesi gibi işlemler, performans sorunlarının önüne geçer.
-Ayrıca, sistem loglarının düzenli olarak incelenmesi ve olası hataların erken tespiti, kesintisiz çalışma süresi için büyük önem taşır. Bakım programları, olası sorunların büyümeden çözülmesini sağlar.
-<br>
-<b>4. Güvenlik: Verilerinizi ve Sistemlerinizi Koruyun</b><br>
-Sunucu güvenliği, veri kaybını, izinsiz erişimi ve siber saldırıları önlemek için alınan önlemleri kapsar. Güçlü şifre politikaları, çok faktörlü kimlik doğrulama, güvenlik duvarları (firewall), antivirüs programları ve IDS/IPS sistemleri, sunucu güvenliğinin temel araçlarıdır.
-Ayrıca, düzenli güvenlik taramaları ve penetrasyon testleri ile olası zafiyetler tespit edilip giderilmelidir. Sunucunun internet bağlantısı ve erişim izinleri iyi yapılandırılmalı, sadece yetkili kullanıcıların erişimi sağlanmalıdır.
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="medium-padding170">
-<div class="container">
-<div class="row">
-
-<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12" id="scrlhe">
-<div class="crumina-module crumina-heading">
-<h3 class="heading-title">Profesyonel Toplu Email Gönderimi İçin Hemen Teklif Alın</h3>
-
-<div class="heading-text">
-
 <b>Çanakkale Toplu Email Gönderimi Hizmeti</b>
 <br><br>
 Dijital dünyada müşterilerinizle doğrudan iletişim kurmanın en güçlü yollarından biri e-posta pazarlamasıdır. Ancak toplu email gönderimi, sadece bir listeye mail atmakla sınırlı değildir. Asıl başarı; gönderdiğiniz e-postaların spam klasörüne düşmeden, doğru zamanda, doğru kişilere ulaşması ve gerçek etkileşim yaratmasıdır.
@@ -153,77 +119,69 @@ Dijital dünyada müşterilerinizle doğrudan iletişim kurmanın en güçlü yo
 <br><br>
 <b>Neden Profesyonel Toplu Email Gönderimi?</b>
 <br><br>
-Birçok işletme, toplu email gönderimini basit araçlarla veya standart hosting altyapıları üzerinden yapmaya çalışır. Ancak bu yöntemler kısa vadede kolay gibi görünse de uzun vadede ciddi sorunlara yol açar:<br>
-
+Birçok işletme, toplu email gönderimini basit araçlarla veya standart hosting altyapıları üzerinden yapmaya çalışır. Ancak bu yöntemler kısa vadede kolay gibi görünse de uzun vadede ciddi sorunlara yol açar:
+<br><br>
 <ul>
 <li>Maillerin spam klasörüne düşmesi</li>
 <li>IP adreslerinin kara listeye girmesi</li>
 <li>Düşük açılma ve tıklanma oranları</li>
 <li>Marka güvenilirliğinin zedelenmesi</li>
 </ul>
-
 <br><br>
 Profesyonel bir sistem ile bu riskler ortadan kaldırılır ve e-posta pazarlaması gerçek potansiyeline ulaşır.
-<br>
+<br><br>
 <b>Güçlü ve Optimize Edilmiş Altyapı</b>
 <br><br>
 Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize edilmiş sunucular kullanıyoruz. Her müşteriye özel yapılandırılan sistem sayesinde:<br>
-
+<br><br>
 <ul>
 <li>Gönderim hızı ve stabilitesi korunur</li>
 <li>Sunucu kaynakları verimli kullanılır</li>
 <li>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
 </ul>
-
 <br><br>
 Ayrıca SPF, DKIM ve DMARC gibi kritik doğrulama protokolleri eksiksiz şekilde yapılandırılarak, e-postalarınızın güvenilirliği artırılır ve spam filtrelerine takılma riski minimuma indirilir.
 <br><br>
 <b>Yüksek Teslim Edilebilirlik (Inbox Delivery)</b>
 <br><br>
 Toplu email gönderiminde en önemli kriterlerden biri inbox oranıdır. Yani gönderdiğiniz maillerin gerçekten gelen kutusuna düşmesi.
-<br>
+<br><br>
 Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem taşır. Biz:<br>
-<br>
-
+<br><br>
 <ul>
 <li>IP ısındırma (IP warming) süreçlerini yönetir</li>
 <li>Gönderim frekansını optimize eder</li>
 <li>Liste kalitesini analiz eder</li>
 <li>Spam tetikleyici unsurları minimize ederiz</li>
 </ul>
-
-<br>
+<br><br>
 Böylece gönderimleriniz sadece ulaşmaz, görülür ve etkileşim alır.
-<br>
+<br><br>
 <b>Hedefleme ve Segmentasyon</b>
 <br><br>
 Başarılı bir email kampanyasının sırrı doğru mesajı doğru kişiye iletmektir. Bu nedenle toplu gönderimlerde segmentasyon büyük rol oynar.
-<br>
+<br><br>
 Hizmetimiz kapsamında:
-<br>
-
+<br><br>
 <ul>
 <li>Müşteri listelerinizi analiz eder</li>
 <li>Hedef kitlelere göre segmentler oluşturur</li>
 <li>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
 </ul>
-
-<br>
+<br><br>
 Bu sayede her kullanıcıya aynı maili göndermek yerine, daha ilgili ve etkili içerikler sunabilirsiniz.
 <br>
 <b>Detaylı Raporlama ve Analiz</b>
 <br><br>
 Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik öneme sahiptir. Bu nedenle sunduğumuz sistemlerde:
-<br>
-
+<br><br>
 <ul>
 <li>Açılma oranları (Open Rate)</li>
 <li>Tıklanma oranları (CTR)</li>
 <li>Bounce ve spam raporları</li>
 <li>Kullanıcı etkileşim verileri</li>
 </ul>
-
-<br>
+<br><br>
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
 <br>
 Bu veriler sayesinde hangi kampanyaların daha iyi performans gösterdiğini net şekilde görebilir ve stratejinizi sürekli geliştirebilirsiniz.
@@ -233,15 +191,13 @@ Bu veriler sayesinde hangi kampanyaların daha iyi performans gösterdiğini net
 E-posta pazarlamasında yasal süreçler en az teknik konular kadar önemlidir. KVKK ve izinli pazarlama kurallarına uygun hareket edilmediğinde ciddi yaptırımlarla karşılaşabilirsiniz.
 <br>
 Bu nedenle:
-<br>
-
+<br><br>
 <ul>
 <li>İzinli veri kullanımı konusunda danışmanlık sağlıyoruz</li>
 <li>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
 <li>Güvenli veri işleme standartlarını uyguluyoruz</li>
 </ul>
-
-<br>
+<br><br>
 Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi korursunuz.
 <br>
 <b>Kimler İçin Uygun?</b>
@@ -264,6 +220,24 @@ E-posta gönderimi tek başına bir amaç değildir; bir araçtır. Önemli olan
 Biz, sadece teknik bir hizmet sunmuyoruz. Aynı zamanda işletmenizin e-posta pazarlamasını bir üst seviyeye taşıyacak stratejik bir çözüm ortağı oluyoruz.
 <br>
 Daha fazla kişiye ulaşmak, daha yüksek geri dönüş almak ve e-posta pazarlamasını profesyonel bir seviyeye taşımak için bizimle iletişime geçin.
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="medium-padding170">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12" id="scrlhe">
+<div class="crumina-module crumina-heading">
+<h3 class="heading-title">Profesyonel Toplu Email Gönderimi İçin Hemen Teklif Alın</h3>
+
+<div class="heading-text">
+
+
 </div>
 
 </div>
