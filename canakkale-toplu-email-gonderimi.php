@@ -129,7 +129,6 @@ Birçok işletme, toplu email gönderimini basit araçlarla veya standart hostin
 <li style='font-size: 16px;'>Düşük açılma ve tıklanma oranları</li>
 <li style='font-size: 16px;'>Marka güvenilirliğinin zedelenmesi</li>
 </ul>
-<br>
 
 <p>
 Profesyonel bir sistem ile bu riskler ortadan kaldırılır ve e-posta pazarlaması gerçek potansiyeline ulaşır.
@@ -147,7 +146,6 @@ Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize
 <li style='font-size: 16px;'>Sunucu kaynakları verimli kullanılır</li>
 <li style='font-size: 16px;'>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
 </ul>
-<br>
 
 <p>
 Ayrıca SPF, DKIM ve DMARC gibi kritik doğrulama protokolleri eksiksiz şekilde yapılandırılarak, e-postalarınızın güvenilirliği artırılır ve spam filtrelerine takılma riski minimuma indirilir.
@@ -169,7 +167,6 @@ Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem t
 <li style='font-size: 16px;'>Liste kalitesini analiz eder</li>
 <li style='font-size: 16px;'>Spam tetikleyici unsurları minimize ederiz</li>
 </ul>
-<br>
 
 <p>
 Böylece gönderimleriniz sadece ulaşmaz, görülür ve etkileşim alır.
@@ -190,7 +187,6 @@ Hizmetimiz kapsamında:
 <li style='font-size: 16px;'>Hedef kitlelere göre segmentler oluşturur</li>
 <li style='font-size: 16px;'>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
 </ul>
-<br>
 
 <p>
 Bu sayede her kullanıcıya aynı maili göndermek yerine, daha ilgili ve etkili içerikler sunabilirsiniz.
@@ -209,7 +205,6 @@ Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik
 <li style='font-size: 16px;'>Bounce ve spam raporları</li>
 <li style='font-size: 16px;'>Kullanıcı etkileşim verileri</li>
 </ul>
-<br>
 
 <p>
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
@@ -231,7 +226,6 @@ Bu nedenle:
 <li style='font-size: 16px;'>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
 <li style='font-size: 16px;'>Güvenli veri işleme standartlarını uyguluyoruz</li>
 </ul>
-<br>
 
 <p>
 Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi korursunuz.
@@ -241,7 +235,7 @@ Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi 
 <br><br>
 
 Çanakkale toplu email gönderimi hizmetimiz;
-<br><br>
+<br>
 </p>
 
 <ul style="font-style: italic;">
