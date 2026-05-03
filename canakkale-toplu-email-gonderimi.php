@@ -112,8 +112,8 @@ Daha fazla kişiye ulaşmak, daha fazla geri dönüş almak ve e-posta gücünü
 
 <div class="h5 heading-text">
 <b>Çanakkale Toplu Email Gönderimi Hizmeti</b>
+
 <p>
-<br><br>
 Dijital dünyada müşterilerinizle doğrudan iletişim kurmanın en güçlü yollarından biri e-posta pazarlamasıdır. Ancak toplu email gönderimi, sadece bir listeye mail atmakla sınırlı değildir. Asıl başarı; gönderdiğiniz e-postaların spam klasörüne düşmeden, doğru zamanda, doğru kişilere ulaşması ve gerçek etkileşim yaratmasıdır.
 <br><br>
 Çanakkale toplu email gönderimi hizmetimiz, işletmenizin ihtiyaçlarına özel olarak tasarlanmış profesyonel bir altyapı sunar. Amacımız sadece e-posta göndermek değil; gönderdiğiniz her kampanyanın ölçülebilir sonuçlar üretmesini sağlamaktır.
