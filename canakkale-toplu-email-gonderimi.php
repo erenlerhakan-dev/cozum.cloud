@@ -170,24 +170,30 @@ Profesyonel bir sistem ile bu riskler ortadan kaldırılır ve e-posta pazarlama
 <b>Güçlü ve Optimize Edilmiş Altyapı</b>
 <br><br>
 Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize edilmiş sunucular kullanıyoruz. Her müşteriye özel yapılandırılan sistem sayesinde:<br>
+
 <ul>
 <li>Gönderim hızı ve stabilitesi korunur</li>
 <li>Sunucu kaynakları verimli kullanılır</li>
 <li>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
 </ul>
+
 <br><br>
 Ayrıca SPF, DKIM ve DMARC gibi kritik doğrulama protokolleri eksiksiz şekilde yapılandırılarak, e-postalarınızın güvenilirliği artırılır ve spam filtrelerine takılma riski minimuma indirilir.
-
+<br><br>
 <b>Yüksek Teslim Edilebilirlik (Inbox Delivery)</b>
 <br><br>
 Toplu email gönderiminde en önemli kriterlerden biri inbox oranıdır. Yani gönderdiğiniz maillerin gerçekten gelen kutusuna düşmesi.
 <br>
 Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem taşır. Biz:<br>
 <br>
-IP ısındırma (IP warming) süreçlerini yönetir
-Gönderim frekansını optimize eder
-Liste kalitesini analiz eder
-Spam tetikleyici unsurları minimize ederiz
+
+<ul>
+<li>IP ısındırma (IP warming) süreçlerini yönetir</li>
+<li>Gönderim frekansını optimize eder</li>
+<li>Liste kalitesini analiz eder</li>
+<li>Spam tetikleyici unsurları minimize ederiz</li>
+</ul>
+
 <br>
 Böylece gönderimleriniz sadece ulaşmaz, görülür ve etkileşim alır.
 <br>
@@ -197,9 +203,13 @@ Başarılı bir email kampanyasının sırrı doğru mesajı doğru kişiye ilet
 <br>
 Hizmetimiz kapsamında:
 <br>
-Müşteri listelerinizi analiz eder
-Hedef kitlelere göre segmentler oluşturur
-Kişiselleştirilmiş gönderim senaryoları planlarız
+
+<ul>
+<li>Müşteri listelerinizi analiz eder</li>
+<li>Hedef kitlelere göre segmentler oluşturur</li>
+<li>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
+</ul>
+
 <br>
 Bu sayede her kullanıcıya aynı maili göndermek yerine, daha ilgili ve etkili içerikler sunabilirsiniz.
 <br>
@@ -210,7 +220,8 @@ Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik
 Açılma oranları (Open Rate)
 Tıklanma oranları (CTR)
 Bounce ve spam raporları
-Kullanıcı etkileşim verileri
+Kullanıcı etkileşim verileri</li>
+</ul>
 <br>
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
 <br>
@@ -224,7 +235,8 @@ Bu nedenle:
 <br>
 İzinli veri kullanımı konusunda danışmanlık sağlıyoruz
 Liste yönetimi ve abonelik süreçlerini optimize ediyoruz
-Güvenli veri işleme standartlarını uyguluyoruz
+Güvenli veri işleme standartlarını uyguluyoruz</li>
+</ul>
 <br>
 Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi korursunuz.
 <br>
@@ -236,7 +248,8 @@ E-ticaret siteleri
 Kurumsal firmalar
 Ajanslar
 Eğitim kurumları
-Hizmet sektörü işletmeleri
+Hizmet sektörü işletmeleri</li>
+</ul>
 <br>
 başta olmak üzere, müşteri kitlesiyle düzenli iletişim kurmak isteyen tüm işletmeler için uygundur.
 <br>
