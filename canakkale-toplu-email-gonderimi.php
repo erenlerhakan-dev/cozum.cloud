@@ -135,7 +135,7 @@ Profesyonel bir sistem ile bu riskler ortadan kaldırılır ve e-posta pazarlama
 <br><br>
 
 Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize edilmiş sunucular kullanıyoruz. Her müşteriye özel yapılandırılan sistem sayesinde:<br>
-<br><br>
+<br>
 
 <ul style="font-style: italic;">
 <li>Gönderim hızı ve stabilitesi korunur</li>
@@ -153,7 +153,7 @@ Ayrıca SPF, DKIM ve DMARC gibi kritik doğrulama protokolleri eksiksiz şekilde
 Toplu email gönderiminde en önemli kriterlerden biri inbox oranıdır. Yani gönderdiğiniz maillerin gerçekten gelen kutusuna düşmesi.
 <br><br>
 
-Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem taşır. Biz:<br>
+Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem taşır. Biz:
 <br><br>
 
 <ul style="font-style: italic;">
@@ -201,7 +201,7 @@ Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik
 <br>
 
 detaylı şekilde analiz edilir ve size şeffaf olarak sunulur.
-<br><br>
+<br>
 Bu veriler sayesinde hangi kampanyaların daha iyi performans gösterdiğini net şekilde görebilir ve stratejinizi sürekli geliştirebilirsiniz.
 <br><br>
 
@@ -245,9 +245,9 @@ başta olmak üzere, müşteri kitlesiyle düzenli iletişim kurmak isteyen tüm
 <br><br>
 
 E-posta gönderimi tek başına bir amaç değildir; bir araçtır. Önemli olan bu aracı doğru kullanarak satışları artırmak, müşteri bağlılığı oluşturmak ve markanızı güçlendirmektir.
-<br><br>
+<br>
 Biz, sadece teknik bir hizmet sunmuyoruz. Aynı zamanda işletmenizin e-posta pazarlamasını bir üst seviyeye taşıyacak stratejik bir çözüm ortağı oluyoruz.
-<br><br>
+<br>
 Daha fazla kişiye ulaşmak, daha yüksek geri dönüş almak ve e-posta pazarlamasını profesyonel bir seviyeye taşımak için bizimle iletişime geçin.
 </p>
 </div>
