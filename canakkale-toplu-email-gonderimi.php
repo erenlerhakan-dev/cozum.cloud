@@ -123,12 +123,12 @@ Birçok işletme, toplu email gönderimini basit araçlarla veya standart hostin
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>Maillerin spam klasörüne düşmesi</li>
 <li>IP adreslerinin kara listeye girmesi</li>
 <li>Düşük açılma ve tıklanma oranları</li>
 <li>Marka güvenilirliğinin zedelenmesi</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -142,11 +142,11 @@ Toplu email gönderimi hizmetimizde, yüksek hacimli gönderimler için optimize
 <br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>Gönderim hızı ve stabilitesi korunur</li>
 <li>Sunucu kaynakları verimli kullanılır</li>
 <li>Büyük listelerde bile sorunsuz gönderim sağlanır</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -163,12 +163,12 @@ Bu noktada sadece teknik kurulum değil; gönderim stratejisi de büyük önem t
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>IP ısındırma (IP warming) süreçlerini yönetir</li>
 <li>Gönderim frekansını optimize eder</li>
 <li>Liste kalitesini analiz eder</li>
 <li>Spam tetikleyici unsurları minimize ederiz</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -185,11 +185,11 @@ Hizmetimiz kapsamında:
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>Müşteri listelerinizi analiz eder</li>
 <li>Hedef kitlelere göre segmentler oluşturur</li>
 <li>Kişiselleştirilmiş gönderim senaryoları planlarız</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -203,12 +203,12 @@ Gönderim sonrası performansı ölçmek, stratejinizi geliştirmek için kritik
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>Açılma oranları (Open Rate)</li>
 <li>Tıklanma oranları (CTR)</li>
 <li>Bounce ve spam raporları</li>
 <li>Kullanıcı etkileşim verileri</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -226,11 +226,11 @@ Bu nedenle:
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>İzinli veri kullanımı konusunda danışmanlık sağlıyoruz</li>
 <li>Liste yönetimi ve abonelik süreçlerini optimize ediyoruz</li>
 <li>Güvenli veri işleme standartlarını uyguluyoruz</li>
-</p>
+</ul>
 <br>
 
 <p>
@@ -244,13 +244,13 @@ Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi 
 <br><br>
 </p>
 
-<p style="font-style: italic;">
+<ul style="font-style: italic;">
 <li>E-ticaret siteleri</li>
 <li>Kurumsal firmalar</li>
 <li>Ajanslar</li>
 <li>Eğitim kurumları</li>
 <li>Hizmet sektörü işletmeleri</li>
-</p>
+</ul>
 <br>
 
 başta olmak üzere, müşteri kitlesiyle düzenli iletişim kurmak isteyen tüm işletmeler için uygundur.
