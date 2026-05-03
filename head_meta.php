@@ -12,7 +12,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css" integrity="sha512-Gz/2c9UnthbX7gn2RiWwuE3wnYTj2sAovAAZbAZopcE/s2vt6i+l7+d53WHbNiEVT8kpUHc2+pc7WvHCQ4W7xw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,900" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+
 
 <meta name="author" content="Hakan Erenler https://www.cozum.cloud">
 <meta name="publisher" content="Hakan Erenler https://www.cozum.cloud">
