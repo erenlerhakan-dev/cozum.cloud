@@ -140,3 +140,19 @@
 
 </div>
 </div>
+
+<div class="alert text-center cookiealert" role="alert">
+Sitemizde temel işlevleri sağlamak ve ziyaretçilerin sitemiz ile nasıl etkileşimde bulunduğuna dair bilgi toplamak için çerezleri kullanıyoruz. <a href="https://www.canakkale-webyazilim.com.tr/kvkk" target="_blank">Daha Fazla Bilgi Edinin</a>
+<br class="d-block d-sm-none">
+<span class="btn btn-success rounded-pill mx-1 mb-2 mb-md-0 acceptcookies">Kabul Et</span>
+<span class="btn btn-primary rounded-pill mx-1 mb-2 mb-md-0" data-bs-toggle="modal" data-bs-target="#cookie_bildirim">Düzenle</span>
+</div>
+
+<div class="sol-alt-butonlar">
+<a href="tel:+90 534 792 25 31" class="icon-link telefon" title="Bizi Arayın">
+<i class="fas fa-phone"></i>
+</a>
+<a href="https://wa.me/905347922531" class="icon-link whatsapp" target="_blank" title="WhatsApp Mesaj Gönder">
+<i class="fab fa-whatsapp"></i>
+</a>
+</div>

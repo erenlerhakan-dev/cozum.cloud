@@ -184,6 +184,8 @@ Web yazılım ajansımız, sektörünüze uygun anahtar kelimeleri titizlikle se
 
 <?php include_once("footer.php"); ?>
 
+<?php include_once("cookie_modal.php"); ?>
+
 <?php include_once("footer_scripts.php"); ?>
 
 </body>

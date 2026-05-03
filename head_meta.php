@@ -5,6 +5,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://cozum.cloud/images/favicon.png" />
 
 <link rel="stylesheet" href="https://www.cozum.cloud/css/style.css">
+<link rel="stylesheet" href="https://www.cozum.cloud/css/hakan.css">
 <link rel="stylesheet" href="https://www.cozum.cloud/css/theme-styles.css">
 <link rel="stylesheet" href="https://www.cozum.cloud/css/blocks.css">
 <link rel="stylesheet" href="https://www.cozum.cloud/css/widgets.css">

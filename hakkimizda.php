@@ -242,6 +242,8 @@ E-ticaret projeleri ve pek çok farklı projeyi başarıyla yönettiğimiz için
 
 <?php include_once("footer.php"); ?>
 
+<?php include_once("cookie_modal.php"); ?>
+
 <?php include_once("footer_scripts.php"); ?>
 
 </body>

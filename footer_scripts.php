@@ -4,6 +4,7 @@
 <script src="https://cozum.cloud/js/theme-plugins.js"></script>
 <script src="https://cozum.cloud/js/velocity.min.js"></script>
 <script src="https://cozum.cloud/js/main.js"></script>
+<script src="https://cozum.cloud/js/h_customs.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
 
 <script>
