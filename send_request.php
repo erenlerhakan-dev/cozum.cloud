@@ -49,13 +49,13 @@ $mail->SMTPOptions = array(
                     'allow_self_signed' => true
                     )
                     );
-$mail->SMTPSecure  = "SSL";
-$mail->Host        = "smtppro.zoho.eu";
-$mail->Port        = 465;
-$mail->Username    = "info@cozumcloud.com.tr";
-$mail->Password    = "xn9BnUk4R634";
+$mail->SMTPSecure  = "TSL";
+$mail->Host        = "mail.cozum.cloud";
+$mail->Port        = 587;
+$mail->Username    = "info@cozum.cloud";
+$mail->Password    = "XGanaGX878!";
 $mail->IsHTML(true);
-$mail->SetFrom("info@cozumcloud.com.tr", "Çözüm Cloud");
+$mail->SetFrom("info@cozum.cloud", "Çözüm Cloud");
 $mail->Subject     = $subject;
 $mail->MsgHTML($emailbodytext);
 
