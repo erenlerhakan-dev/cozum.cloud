@@ -1,10 +1,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js" integrity="sha512-suUtSPkqYmFd5Ls30Nz6bjDX+TCcfEzhFfqjijfdggsaFZoylvTj+2odBzshs0TCwYrYZhQeCgHgJEkncb2YVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cozum.cloud/js/crum-mega-menu.js"></script>
+<script src="https://www.cozum.cloud/js/crum-mega-menu.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js" integrity="sha512-t1b4SfkxEhXGtSnXlefy5+SYQv6mt9K2ksXxzl3ltyOkEHdCvMcAKJWTay6J7pUfw1W/oW9TybcoE3j044OnaA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cozum.cloud/js/theme-plugins.js"></script>
-<script src="https://cozum.cloud/js/velocity.min.js"></script>
-<script src="https://cozum.cloud/js/main.js"></script>
-<script src="https://cozum.cloud/js/h_customs.js"></script>
+<script src="https://www.cozum.cloud/js/theme-plugins.js"></script>
+<script src="https://www.cozum.cloud/js/velocity.min.js"></script>
+<script src="https://www.cozum.cloud/js/main.js"></script>
+<script src="https://www.cozum.cloud/js/h_customs.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
 
 <script>
