@@ -263,13 +263,10 @@ Daha fazla kişiye ulaşmak, daha yüksek geri dönüş almak ve e-posta pazarla
 
 <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12" id="scrlhe">
 <div class="crumina-module crumina-heading">
-<h3 class="heading-title">Profesyonel Toplu Email Gönderimi İçin Hemen Teklif Alın</h3>
-
+<h3 class="heading-title">Toplu Email Gönderimi İçin Hemen Teklif Alın</h3>
 <div class="heading-text">
-
-
+Toplu Email Gönderimi ile e-postalarınızı sadece göndermez, doğru hedef kitleye ulaştırarak ölçülebilir sonuçlara dönüştürürsünüz.
 </div>
-
 </div>
 </div>
 
