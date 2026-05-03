@@ -253,6 +253,7 @@ Böylece hem yasal riskleri ortadan kaldırır hem de marka güvenilirliğinizi 
 </ul>
 <br>
 
+<p>
 başta olmak üzere, müşteri kitlesiyle düzenli iletişim kurmak isteyen tüm işletmeler için uygundur.
 <br><br>
 
