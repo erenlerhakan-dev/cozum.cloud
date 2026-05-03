@@ -112,35 +112,6 @@
 
 </footer>
 
-
-<div id="button-contact-vr" >
-<div id="gom-all-in-one">
-
-<div id="whatsapp-vr" class="button-contact">
-<div class="phone-vr">
-<div class="phone-vr-circle-fill"></div>
-<div class="phone-vr-img-circle">
-<a target="_blank" href="https://wa.me/905347922531">
-<img alt="Whatsapp" src="https://cozum.cloud/images/whatsapp.png">
-</a>
-</div>
-</div>
-</div>
-
-<div id="phone-vr" class="button-contact">
-<div class="phone-vr">
-<div class="phone-vr-circle-fill"></div>
-<div class="phone-vr-img-circle">
-<a href="tel:+905347922531">
-<img alt="Phone" src="https://cozum.cloud/images/phone.png">
-</a>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-
 <div class="alert text-center cookiealert" role="alert">
 Sitemizde temel işlevleri sağlamak ve ziyaretçilerin sitemiz ile nasıl etkileşimde bulunduğuna dair bilgi toplamak için çerezleri kullanıyoruz. <a href="https://www.canakkale-webyazilim.com.tr/kvkk" target="_blank">Daha Fazla Bilgi Edinin</a>
 <br class="d-block d-sm-none">
